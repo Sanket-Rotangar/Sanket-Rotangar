@@ -16,8 +16,8 @@ Recent ECE grad (PCCE Goa) who spent the last 5 months building production AI sy
 ## Stats
 
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username={Sanket-Rotangar}&show_icons=true&theme=transparent&rank_icon=github" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username={Sanket-Rotangar}&theme=transparent&layout=compact&hide=css,html" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sanket-Rotangar&show_icons=true&theme=transparent&rank_icon=github" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Rotangar&theme=transparent&layout=compact&hide=css,html" />
 </div>
 
 
