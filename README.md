@@ -1,10 +1,20 @@
-### Sanket Rotangar — Backend & AI/ML Engineer
+### Sanket Rotangar 
+AI & Backend Engineer
 
-Recent ECE grad (PCCE Goa) who spent the last 5 months building production AI systems at Spintly — RAG pipelines, fine-tuned LLMs, and agent workflows that shipped, not demos. Now building an MCP-native multi-agent orchestrator and looking for backend/AI engineering roles where I can keep doing that.
+I build AI systems that ship. Spent the last 5 months at Spintly
+building production RAG pipelines, fine-tuned LLMs, and agentic workflows inside
+a real product. Now building an MCP-native multi-agent orchestrator, and looking
+for backend/AI engineering roles where that's the actual job, not the side project.
 
 - 🔧 Currently building: an MCP-native multi-agent orchestrator (real JSON-RPC/stdio servers, HITL, eval harness)
 - 🧠 Recently shipped: hybrid BM25 + vector RAG with cross-encoder reranking, QLoRA fine-tuning on Llama 3.1 and Qwen2.5-Coder
-- 📫 Reach me: [[Email](sanketrotangar04@gmail.com)] · [[LinkedIn](https://linkedin.com/in/sanketrotangar)]
+- 📫 Reach me at:
+  <a href="mailto:sanketrotangar04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/sanketrotangar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## Stack
 
@@ -16,7 +26,7 @@ Recent ECE grad (PCCE Goa) who spent the last 5 months building production AI sy
 ## Stats
 
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sanket-Rotangar&show_icons=true&theme=transparent&rank_icon=github" />
+  <img width=390 src="https://github-stats-extended.vercel.app/api?username=Sanket-Rotangar" />
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Rotangar&theme=transparent&layout=compact&hide=css,html" />
 </div>
 
