@@ -9,12 +9,8 @@ for backend/AI engineering roles where that's the actual job, not the side proje
 - 🔧 Currently building: an MCP-native multi-agent orchestrator (real JSON-RPC/stdio servers, HITL, eval harness)
 - 🧠 Recently shipped: hybrid BM25 + vector RAG with cross-encoder reranking, QLoRA fine-tuning on Llama 3.1 and Qwen2.5-Coder
 - 📫 Reach me at:
-  <a href="mailto:sanketrotangar04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/sanketrotangar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="mailto:sanketrotangar04@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/sanketrotangar">LinkedIN</a>
 
 ## Stack
 
@@ -27,7 +23,7 @@ for backend/AI engineering roles where that's the actual job, not the side proje
 
 <div align="center">
   <img width=390 src="https://github-stats-extended.vercel.app/api?username=Sanket-Rotangar" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Rotangar&theme=transparent&layout=compact&hide=css,html" />
+  <!-- <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Rotangar&theme=transparent&layout=compact&hide=css,html" /> -->
 </div>
 
 
