@@ -1,9 +1,25 @@
-# Sanket Rotangar
+### Sanket Rotangar — Backend & AI/ML Engineer
 
-BE in Electronics and Computer Engineering.  
-Interning, building AI tools, learning by shipping.
+Recent ECE grad (PCCE Goa) who spent the last 5 months building production AI systems at Spintly — RAG pipelines, fine-tuned LLMs, and agent workflows that shipped, not demos. Now building an MCP-native multi-agent orchestrator and looking for backend/AI engineering roles where I can keep doing that.
 
----
+- 🔧 Currently building: an MCP-native multi-agent orchestrator (real JSON-RPC/stdio servers, HITL, eval harness)
+- 🧠 Recently shipped: hybrid BM25 + vector RAG with cross-encoder reranking, QLoRA fine-tuning on Llama 3.1 and Qwen2.5-Coder
+- 📫 Reach me: [[Email](sanketrotangar04@gmail.com)] · [[LinkedIn](https://linkedin.com/in/sanketrotangar)]
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,go,fastapi,nextjs,expressjs,nodejs,react,postgres,mongodb,docker,git,kafka,githubactions,flutter,vercel,figma,tailwindcss,arduino,linux" />
+</p>
+
+
+## Stats
+
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username={Sanket-Rotangar}&show_icons=true&theme=transparent&rank_icon=github" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username={Sanket-Rotangar}&theme=transparent&layout=compact&hide=css,html" />
+</div>
+
 
 ## Interests
 
@@ -14,34 +30,6 @@ Interning, building AI tools, learning by shipping.
 
 ---
 
-## Projects
-
-**[MeetingMind](https://github.com/Sanket-Rotangar/MeetingMind)**  
-AI meeting assistant — audio in, structured output (summaries, action items, speaker splits) out. Built on Node.js, AssemblyAI, OpenAI, Supabase.
-
-**HR Onboarding Agent**  
-ReAct-style AI agent with tool-calling loop. Go backend, Ollama (llama3.1), session memory in PostgreSQL.
-
-**AQI Monitoring System**  
-Offline-first air quality monitor for remote locations. ESP32 + PMS7003/BME680 sensors, NodeJS backend, hybrid ML forecasting.
-
----
-
-## Tools & Stack
-
-**Languages:** Python · Java   
-**AI/ML:** Ollama · WhisperX · AssemblyAI · OpenAI · Pyannote . Gemini . OpenSouce Models  
-**Backend:** FastAPI · Express.js · Node.js  
-**Frontend:** React · ReactNative · Flutter  
-**Databases:** PostgreSQL · Supabase · SQLite . Firebase . MongoDB
-**Infra:** Docker · GitHub Actions . Kafka
-
----
-
-## Connect
-
-**[LinkedIn]** *(https://linkedin.com/in/sanketrotangar)*  
-**[Email]** *(sanketrotangar04@gmail.com)*
 <!--
 **Sanket-Rotangar/Sanket-Rotangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
