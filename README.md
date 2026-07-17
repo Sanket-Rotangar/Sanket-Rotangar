@@ -1,5 +1,5 @@
 ### Sanket Rotangar 
-AI & Backend Engineer
+Backend Engineer | AI Systems Integration & Deployment
 
 I build AI systems that ship. Spent the last 5 months at Spintly
 building production RAG pipelines, fine-tuned LLMs, and agentic workflows inside
@@ -18,15 +18,15 @@ for backend/AI engineering roles where that's the actual job, not the side proje
   <img src="https://skillicons.dev/icons?i=python,java,javascript,go,fastapi,nextjs,expressjs,nodejs,react,postgres,mongodb,docker,git,kafka,githubactions,flutter,vercel,figma,tailwindcss,arduino,linux" />
 </p>
 
-
+<!--
 ## Stats
 
 <div align="center">
   <img width=390 src="https://github-stats-extended.vercel.app/api?username=Sanket-Rotangar" />
-  <!-- <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Rotangar&theme=transparent&layout=compact&hide=css,html" /> -->
+  <!-- <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Rotangar&theme=transparent&layout=compact&hide=css,html" /> 
 </div>
-
-
+-->
+<!--
 ## Interests
 
 - Agentic AI systems that execute reliably
@@ -35,7 +35,7 @@ for backend/AI engineering roles where that's the actual job, not the side proje
 - Building products with actual use
 
 ---
-
+-->
 <!--
 **Sanket-Rotangar/Sanket-Rotangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
